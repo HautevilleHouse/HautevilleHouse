@@ -8,6 +8,7 @@ This GitHub profile hosts 52 public canonical-lane repositories: reproducible th
 
 - [Public Overview](https://github.com/HautevilleHouse/canonical-lane-library/blob/main/PUBLIC_OVERVIEW.md): short non-specialist summary of what the library is and how to navigate it.
 - [Reviewer Entry Points](https://github.com/HautevilleHouse/canonical-lane-library/blob/main/REVIEWER_ENTRY_POINTS.md): concrete review path for mathematicians, technical readers, and skeptical auditors.
+- [Manifold-Constrained Core](https://github.com/HautevilleHouse/manifold-constrained-core): the parent method, gate grammar, and restart/remainder architecture behind the theorem library.
 - [Canonical Lane Library](https://github.com/HautevilleHouse/canonical-lane-library): full public index of the live theorem library.
 - [The Manifold-Constrained Institute](https://github.com/HautevilleHouse/manifold-constrained-intelligence-institute): institute-facing bridge between the research program and the theorem library.
 - [Manifold-Constrained Patent Record](https://github.com/HautevilleHouse/manifold-constrained-patent-record): GitHub archival record for the patent-facing institute surface.
