@@ -20,7 +20,7 @@ This GitHub profile hosts 52 public canonical-lane repositories: reproducible th
 - Langlands / arithmetic geometry: functoriality, reciprocity, Tate, Fontaine-Mazur, Beilinson, Bloch-Kato, Vojta.
 - Topology / rigidity / assembly: Poincare, smooth 4D Poincare, Novikov, Farrell-Jones, Baum-Connes, Borel.
 - Operator, algebra, and specialist extensions: invariant subspace, Kaplansky variants, Murre, Milnor special values.
-- [Library Constitution](https://github.com/HautevilleHouse/manifold-constrained-core-addendum)
+- [Manifold-Constrained Constitution](https://github.com/HautevilleHouse/manifold-constrained-core-addendum)
 
 ## Flagship Repos
 
