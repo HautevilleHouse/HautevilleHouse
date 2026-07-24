@@ -6,6 +6,8 @@
 
 [unrestricted-classical-closure-expectation](https://github.com/HautevilleHouse/unrestricted-classical-closure-expectation): Expectation, operative from the March 2026 method and lane rollout, that unrestricted classical closure will fail, require repair, or remain permanently carried. Jacobian dim-3 is a later confirming case. Survivor clause for Poincaré and BSD.
 
+[fields-medal-survivor-program](https://github.com/HautevilleHouse/fields-medal-survivor-program): Replayable program for admissible-class formalization of Fields-cited work under survivor epistemology. Small pilot board; oeuvre-wide classical closure out of scope.
+
 
 [canonical-lane-mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule for the theorem-program surface.
 
@@ -63,7 +65,8 @@ Latest finite counterexample: [Graffiti 284 Hoffman–Singleton counterexample](
 2. [Private Clients](https://github.com/HautevilleHouse/private-clients): access-controlled client surface for private implementation, onboarding, and review.
 3. [Manifold-Constrained Survivor Theory](https://github.com/HautevilleHouse/manifold-constrained-survivor-theory): method-first program for admissible-class survivor mathematics.
 4. [Unrestricted Classical Closure Expectation](https://github.com/HautevilleHouse/unrestricted-classical-closure-expectation): dated expectation that unrestricted classical closure will fail, need repair, or remain carried.
-5. [Canonical Lane Mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule.
+5. [Fields Medal Survivor Program](https://github.com/HautevilleHouse/fields-medal-survivor-program): replayable Fields-cited formalization pilots under survivor epistemology.
+6. [Canonical Lane Mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule.
 
 ## Publication workflow
 
