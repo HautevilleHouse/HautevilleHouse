@@ -2,7 +2,7 @@
 
 ## Featured
 
-[classical-unrestricted-fall-expectation](https://github.com/HautevilleHouse/classical-unrestricted-fall-expectation): Dated expectation that non-manifold-constrained classical theorem formulations will fall, require repair, or remain permanently carried. Survivor clause for Poincaré and BSD. Falsifiers and target registry included.
+[classical-unrestricted-fall-expectation](https://github.com/HautevilleHouse/classical-unrestricted-fall-expectation): Expectation, operative from the March 2026 method and lane rollout, that non-manifold-constrained classical theorem formulations will fall, require repair, or remain permanently carried. Jacobian dim-3 is a later confirming case. Survivor clause for Poincaré and BSD.
 
 [canonical-lane-mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule for the theorem-program surface.
 
