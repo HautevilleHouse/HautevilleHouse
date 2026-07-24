@@ -2,7 +2,9 @@
 
 ## Featured
 
-[canonical-lane-mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core **and normative time capsule**. Only manifold-constrained / admissible-class closure is in scope; unrestricted classical conjecture closure is out of scope. Dated prediction, survivor clause (BSD & Poincaré tracked differently), falsifiers: [`NORMATIVE_EXPECTATION.md`](https://github.com/HautevilleHouse/canonical-lane-mathlib/blob/main/NORMATIVE_EXPECTATION.md) · [`prediction_time_capsule.json`](https://github.com/HautevilleHouse/canonical-lane-mathlib/blob/main/registry/prediction_time_capsule.json).
+[classical-unrestricted-fall-expectation](https://github.com/HautevilleHouse/classical-unrestricted-fall-expectation): Dated expectation that non-manifold-constrained classical theorem formulations will fall, require repair, or remain permanently carried. Survivor clause for Poincaré and BSD. Falsifiers and target registry included.
+
+[canonical-lane-mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule for the theorem-program surface.
 
 [canonical-carriage](https://github.com/HautevilleHouse/canonical-carriage): The Canonical Lane runtime for AI agents: plans, approvals, receipts, remainders, and stability preflight before side effects.
 
@@ -56,7 +58,8 @@ Latest finite counterexample: [Graffiti 284 Hoffman–Singleton counterexample](
 
 1. [新时代英烈精神传承弘扬智慧平台](https://github.com/HautevilleHouse/xinshidai-yinglie-jingshen-chuancheng-hongyang-zhihui-pingtai)
 2. [Private Clients](https://github.com/HautevilleHouse/private-clients): access-controlled client surface for private implementation, onboarding, and review.
-3. [Canonical Lane Mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core plus normative expectation / prediction time capsule for the theorem-program surface.
+3. [Classical Unrestricted Fall Expectation](https://github.com/HautevilleHouse/classical-unrestricted-fall-expectation): dated expectation that non-manifold-constrained classical formulations will fall.
+4. [Canonical Lane Mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule.
 
 ## Publication workflow
 
