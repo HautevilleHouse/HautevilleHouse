@@ -2,11 +2,13 @@
 
 ## Featured
 
+[canonical-lane-mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core **and normative time capsule**. Only manifold-constrained / admissible-class closure is in scope; unrestricted classical conjecture closure is out of scope. Dated prediction, survivor clause (BSD & Poincaré tracked differently), falsifiers: [`NORMATIVE_EXPECTATION.md`](https://github.com/HautevilleHouse/canonical-lane-mathlib/blob/main/NORMATIVE_EXPECTATION.md) · [`prediction_time_capsule.json`](https://github.com/HautevilleHouse/canonical-lane-mathlib/blob/main/registry/prediction_time_capsule.json).
+
 [canonical-carriage](https://github.com/HautevilleHouse/canonical-carriage): The Canonical Lane runtime for AI agents: plans, approvals, receipts, remainders, and stability preflight before side effects.
 
 Canonical Lane is a manifold-constrained local-to-global theorem-program library.
 
-This profile routes the public math surface through paired repositories: each problem has a canonical-lane closure package and a Mathlib formalization layer.
+This profile routes the public math surface through paired repositories: each problem has a canonical-lane closure package and a Mathlib formalization layer. Classical unrestricted closure is not the assertible object on that surface; see the time capsule above.
 
 **Latest checked results:** [q-Catalan bivariate n=6 replay](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/qcatalan-bivariate-n6) checks all seven `k` slices over 132 312-avoiding permutations with zero mismatches; the all-`n` conjecture remains open. [Finite q=7 permutation-polynomial replay](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/permutation-polynomial-q7-finite) checks all 115,248 admissible triples in `F_49` with zero permutation polynomials; the general odd-q conjecture remains open. [Bergeron Gaussian bound `<=60`](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/bergeron-small-n60) exhaustively checks 1,173 admissible quadruples and 613,167 coefficients with no negative coefficient; the unrestricted conjecture remains open. [Misère escalation m=3 quotient](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/misere-escalation-m3-quotient) gives the exact five-element quotient for the source game with moves `{1,2,3}`; the all-`m` finiteness conjecture remains open. [Valley Delta area-two extension](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/valley-delta-area2-n6m5) verifies the source-defined refined scaffold exchange exhaustively at `(n,M)=(6,5)` with zero asymmetric classes; the all-parameter Conjecture 8.2 remains open. [Class-69 involution counterexample](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/mesh-class69-involution-counterexample) refutes the additional involution-restricted conjecture in arXiv:2606.14367v1 at `S_3`; the unrestricted Class-69 equidistribution question remains open. [Almost Golomb Prefix Conjecture](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/almost-golomb-prefix-conjecture) proves `a_r(r)=G(r-1)` for every `r>=3`; its separate Domination Lemma and full threshold law remain carried.
 
@@ -54,7 +56,7 @@ Latest finite counterexample: [Graffiti 284 Hoffman–Singleton counterexample](
 
 1. [新时代英烈精神传承弘扬智慧平台](https://github.com/HautevilleHouse/xinshidai-yinglie-jingshen-chuancheng-hongyang-zhihui-pingtai)
 2. [Private Clients](https://github.com/HautevilleHouse/private-clients): access-controlled client surface for private implementation, onboarding, and review.
-3. [Canonical Lane Mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib-backed Canonical Lane projection and carriage core for Lean 4 theorem packages.
+3. [Canonical Lane Mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core plus normative expectation / prediction time capsule for the theorem-program surface.
 
 ## Publication workflow
 
