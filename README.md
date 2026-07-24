@@ -2,7 +2,10 @@
 
 ## Featured
 
-[classical-unrestricted-fall-expectation](https://github.com/HautevilleHouse/classical-unrestricted-fall-expectation): Expectation, operative from the March 2026 method and lane rollout, that non-manifold-constrained classical theorem formulations will fall, require repair, or remain permanently carried. Jacobian dim-3 is a later confirming case. Survivor clause for Poincaré and BSD.
+[manifold-constrained-survivor-theory](https://github.com/HautevilleHouse/manifold-constrained-survivor-theory): Method-first research program for why manifold-constrained / admissible-class formulations survive when unrestricted classical closure fails, needs repair, or remains carried.
+
+[unrestricted-classical-closure-expectation](https://github.com/HautevilleHouse/unrestricted-classical-closure-expectation): Expectation, operative from the March 2026 method and lane rollout, that unrestricted classical closure will fail, require repair, or remain permanently carried. Jacobian dim-3 is a later confirming case. Survivor clause for Poincaré and BSD.
+
 
 [canonical-lane-mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule for the theorem-program surface.
 
@@ -10,7 +13,7 @@
 
 Canonical Lane is a manifold-constrained local-to-global theorem-program library.
 
-This profile routes the public math surface through paired repositories: each problem has a canonical-lane closure package and a Mathlib formalization layer. Classical unrestricted closure is not the assertible object on that surface; see classical-unrestricted-fall-expectation.
+This profile routes the public math surface through paired repositories: each problem has a canonical-lane closure package and a Mathlib formalization layer. Classical unrestricted closure is not the assertible object on that surface; see manifold-constrained-survivor-theory and unrestricted-classical-closure-expectation.
 
 **Latest checked results:** [AFH Q1 / CP⁵ null-correlation slice](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/afh-q1-cp5-null-correlation-slice) checks null-correlation Chern/K0 identities, Opie Theorem 1.3(ii) arithmetic `φ(4,(0,1,0,1))=2` under `S_5`, and ABH 7.2.1 isomorphism range at `(d,j)=(5,5)`; AFH Question 1 and the ulam Theorems A/B remain unsettled.  [q-Catalan bivariate n=6 replay](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/qcatalan-bivariate-n6) checks all seven `k` slices over 132 312-avoiding permutations with zero mismatches; the all-`n` conjecture remains open. [Finite q=7 permutation-polynomial replay](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/permutation-polynomial-q7-finite) checks all 115,248 admissible triples in `F_49` with zero permutation polynomials; the general odd-q conjecture remains open. [Bergeron Gaussian bound `<=60`](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/bergeron-small-n60) exhaustively checks 1,173 admissible quadruples and 613,167 coefficients with no negative coefficient; the unrestricted conjecture remains open. [Misère escalation m=3 quotient](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/misere-escalation-m3-quotient) gives the exact five-element quotient for the source game with moves `{1,2,3}`; the all-`m` finiteness conjecture remains open. [Valley Delta area-two extension](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/valley-delta-area2-n6m5) verifies the source-defined refined scaffold exchange exhaustively at `(n,M)=(6,5)` with zero asymmetric classes; the all-parameter Conjecture 8.2 remains open. [Class-69 involution counterexample](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/mesh-class69-involution-counterexample) refutes the additional involution-restricted conjecture in arXiv:2606.14367v1 at `S_3`; the unrestricted Class-69 equidistribution question remains open. [Almost Golomb Prefix Conjecture](https://github.com/HautevilleHouse/commentary/tree/main/openconjectures/almost-golomb-prefix-conjecture) proves `a_r(r)=G(r-1)` for every `r>=3`; its separate Domination Lemma and full threshold law remain carried.
 
@@ -58,8 +61,9 @@ Latest finite counterexample: [Graffiti 284 Hoffman–Singleton counterexample](
 
 1. [新时代英烈精神传承弘扬智慧平台](https://github.com/HautevilleHouse/xinshidai-yinglie-jingshen-chuancheng-hongyang-zhihui-pingtai)
 2. [Private Clients](https://github.com/HautevilleHouse/private-clients): access-controlled client surface for private implementation, onboarding, and review.
-3. [Classical Unrestricted Fall Expectation](https://github.com/HautevilleHouse/classical-unrestricted-fall-expectation): dated expectation that non-manifold-constrained classical formulations will fall.
-4. [Canonical Lane Mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule.
+3. [Manifold-Constrained Survivor Theory](https://github.com/HautevilleHouse/manifold-constrained-survivor-theory): method-first program for admissible-class survivor mathematics.
+4. [Unrestricted Classical Closure Expectation](https://github.com/HautevilleHouse/unrestricted-classical-closure-expectation): dated expectation that unrestricted classical closure will fail, need repair, or remain carried.
+5. [Canonical Lane Mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule.
 
 ## Publication workflow
 
