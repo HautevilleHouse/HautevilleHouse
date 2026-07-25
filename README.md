@@ -8,6 +8,7 @@
 
 [fields-medal-survivor-program](https://github.com/HautevilleHouse/fields-medal-survivor-program): Replayable Fields-cited formalization pilots under survivor epistemology (`cathedral_surface_v1`, 68/68 pilots). Offline cathedral verifier green; oeuvre-wide classical closure and T4 claim encoding remain out of scope.
 
+[erdos-solutions-canonical-lane](https://github.com/HautevilleHouse/erdos-solutions-canonical-lane): Machine-readable Erdős solution registry with provenance records, source-pinned headline synchronization, explicit external-artifact boundaries, and reproducible validation.
 
 [canonical-lane-mathlib](https://github.com/HautevilleHouse/canonical-lane-mathlib): Mathlib carriage core and twin normative capsule for the theorem-program surface.
 
